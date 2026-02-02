@@ -5,7 +5,7 @@ list.append() is used to add elements into the list, list.remove() is used to re
 list1.extend(list2) is used to merge two lists.
 list[2] is used to find third element of the list.
 ## Algorithm: 
-a)Algorithm: Analyzing Student Marks
+    a)Algorithm: Analyzing Student Marks
     1)Initialize Data: Create a list containing the numerical marks of the students.
     2)Find Extremes:
         Identify the highest value in the list (max()).
@@ -16,7 +16,7 @@ a)Algorithm: Analyzing Student Marks
     6)Organize Data: Sort the list of marks from the lowest value to the highest value (Ascending Order)(list.sort()).
     7)Display Results: Print all the calculated values and the sorted list to the screen.
 
-b)Modifying a Grocery List
+    b)Modifying a Grocery List
     1)Create the List: Start with an initial list of five items: carrot, potato, spinach, eggplant, and cheese.
     2)Add an Item: Update the list by adding "milk" to the very end using ".append("milk")" command.
     3)Remove an Item: Search for "potato" in the list and delete it using ".remove("potato")" command.
